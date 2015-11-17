@@ -6,6 +6,7 @@
 1. **Rich Hickey, "Are We There Yet?"** - Critical considerations about Object-Oriented paradigm(languages) from creator of Closure language.
 [[transcription](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/AreWeThereYet.md)]
 2. **Joel Spolsky, "Things You Should Never Do, Part I"** - Thoughts about rewriting program from scratch. [[article](http://www.joelonsoftware.com/articles/fog0000000069.html)]
+3. **Alan Green, "Naming Java Classes Without a 'Manager'"** - about naming things. [[article](http://www.bright-green.com/blog/2003_02_25/naming_java_classes_without_a.html)]
 
 #### Reverse-engineering/disassembling
 
