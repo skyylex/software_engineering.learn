@@ -8,6 +8,10 @@
 2. **Joel Spolsky, "Things You Should Never Do, Part I"** - Thoughts about rewriting program from scratch. [[article](http://www.joelonsoftware.com/articles/fog0000000069.html)]
 3. **Alan Green, "Naming Java Classes Without a 'Manager'"** - about naming things. [[article](http://www.bright-green.com/blog/2003_02_25/naming_java_classes_without_a.html)]
 
+#### Testing
+
+1. **Koen Claessen, John Hughes "QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs"** - One of the ways to use random testing. [[article](http://www.eecs.northwestern.edu/~robby/courses/395-495-2009-fall/quick.pdf)]
+
 #### Software Design
 
 1. **Martin Fowler, "Event Sourcing"** - Alternative way to consider state in persistence store. [[article](http://martinfowler.com/eaaDev/EventSourcing.html)]
