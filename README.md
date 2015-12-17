@@ -16,6 +16,7 @@
 
 1. **Martin Fowler, "Event Sourcing"** - Alternative way to consider state in persistence store. [[article](http://martinfowler.com/eaaDev/EventSourcing.html)]
 2. **Robert Martin (Uncle Bob), "Screaming architecture"** - Thoughts about what is an architecture and it's relations to the frameworks. [[blogpost](http://blog.8thlight.com/uncle-bob/2011/09/30/Screaming-Architecture.html)]
+3. **Robert Martin (Uncle Bob), "Clean architecture"** - Thoughts about coupling and decopling in the architecture. [[blogpost](https://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)]
 
 #### Reverse-engineering/disassembling
 
