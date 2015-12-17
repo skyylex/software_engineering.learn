@@ -15,7 +15,7 @@
 #### Software Design
 
 1. **Martin Fowler, "Event Sourcing"** - Alternative way to consider state in persistence store. [[article](http://martinfowler.com/eaaDev/EventSourcing.html)]
-2. **"Design Patterns in Swift"** - Set of the swift code samples, each of them demonstrates single design pattern with brief explanation. [[demonstration materials](https://github.com/ochococo/Design-Patterns-In-Swift)]
+2. **Robert Martin (Uncle Bob), "Screaming architecture"** - Thoughts about what is architecture and it's relations to the frameworks. [[blogpost](http://blog.8thlight.com/uncle-bob/2011/09/30/Screaming-Architecture.html)]
 
 #### Reverse-engineering/disassembling
 
