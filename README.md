@@ -7,6 +7,8 @@
 [[transcription](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/AreWeThereYet.md)]
 2. **Joel Spolsky, "Things You Should Never Do, Part I"** - Thoughts about rewriting program from scratch. [[article](http://www.joelonsoftware.com/articles/fog0000000069.html)]
 3. **Alan Green, "Naming Java Classes Without a 'Manager'"** - about naming things. [[article](http://www.bright-green.com/blog/2003_02_25/naming_java_classes_without_a.html)]
+4. **Niklaus Wirth, "Program Development by Stepwise Refinement".** 
+[[article](http://sunnyday.mit.edu/16.355/wirth-refinement.html)]
 
 #### Testing
 
