@@ -26,4 +26,4 @@
 
 #### Version control system
 
-1. **Git workflows by Atlassian.** - Description of some common flows to work with Git  [(article)https://www.atlassian.com/git/tutorials/comparing-workflows/]
+1. **Git workflows by Atlassian.** - Description of some common flows to work with Git  [[article](https://www.atlassian.com/git/tutorials/comparing-workflows/)]
