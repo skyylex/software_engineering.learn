@@ -20,6 +20,11 @@
 2. **Robert Martin (Uncle Bob), "Screaming architecture"** - Thoughts about what is an architecture and it's relations to the frameworks. [[blogpost](http://blog.8thlight.com/uncle-bob/2011/09/30/Screaming-Architecture.html)]
 3. **Robert Martin (Uncle Bob), "Clean architecture"** - Thoughts about coupling and decopling in the architecture. [[blogpost](https://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)]
 
+#### Data mining
+
+1. **Xindong Wu and others, "Top 10 algorithms in data mining"** - Excelent overview of the popular data mining algorithms
+[[article](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf)]
+
 #### Reverse-engineering/disassembling
 
 1. **Joe Condon, Brian Kernighan and Ken Thompson, "Experience with the Mergenthaler Linotron 202 Phototypesetter, or, How We Spent Our Summer Vacation"** - A very interesting and funny paper about three experts trying to figure out how the proprietary typesetter works using the black box method. [[article](http://doc.cat-v.org/unix/typesetting/digital-restoration-and-typesetter-forensics/summer.reconstructed.pdf)]
