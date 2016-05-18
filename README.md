@@ -9,6 +9,7 @@
 3. **Alan Green, "Naming Java Classes Without a 'Manager'"** - about naming things. [[article](http://www.bright-green.com/blog/2003_02_25/naming_java_classes_without_a.html)]
 4. **Niklaus Wirth, "Program Development by Stepwise Refinement".** 
 [[article](http://sunnyday.mit.edu/16.355/wirth-refinement.html)]
+5. **Rob Pike, Brian W. Kernighan**, "Program design in the UNIX environment" - UNIX way to choose functionality of the tool.
 
 #### Testing
 
