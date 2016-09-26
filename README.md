@@ -31,6 +31,10 @@
 
 1. **Joe Condon, Brian Kernighan and Ken Thompson, "Experience with the Mergenthaler Linotron 202 Phototypesetter, or, How We Spent Our Summer Vacation"** - A very interesting and funny paper about three experts trying to figure out how the proprietary typesetter works using the black box method. [[article](http://doc.cat-v.org/unix/typesetting/digital-restoration-and-typesetter-forensics/summer.reconstructed.pdf)]
 
+#### Program execution
+
+1. **Mike Ash, "Linking and Install Names"** - small blog post about linking libraries in OS X. [[article](https://www.mikeash.com/pyblog/friday-qa-2009-11-06-linking-and-install-names.html)]
+
 #### Version control system
 
 1. **Git workflows by Atlassian.** - Description of some common flows to work with Git  [[article](https://www.atlassian.com/git/tutorials/comparing-workflows/)]
