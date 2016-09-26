@@ -33,7 +33,7 @@
 
 #### Program execution
 
-1. **Mike Ash, "Linking and Install Names"** - small blog post about linking libraries in OS X. [[article](https://www.mikeash.com/pyblog/friday-qa-2009-11-06-linking-and-install-names.html)]
+1. **Mike Ash, "Linking and Install Names"** - small blog post about linking libraries in OS X. [[blogpost](https://www.mikeash.com/pyblog/friday-qa-2009-11-06-linking-and-install-names.html)]
 
 #### Version control system
 
