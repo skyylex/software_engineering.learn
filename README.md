@@ -12,6 +12,10 @@
 5. **Rob Pike, Brian W. Kernighan**, "Program design in the UNIX environment" - UNIX way to choose functionality of the tool.
 [[article](http://harmful.cat-v.org/cat-v/unix_prog_design.pdf)]
 
+#### Optimizations
+
+1. **Mike Ash**, "Concurrent memory deallocation in the Objective-C runtime" - [[blogpost](https://www.mikeash.com/pyblog/friday-qa-2015-05-29-concurrent-memory-deallocation-in-the-objective-c-runtime.html)]
+
 #### Testing
 
 1. **Koen Claessen, John Hughes "QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs"** - One of the ways to use random testing. [[article](http://www.eecs.northwestern.edu/~robby/courses/395-495-2009-fall/quick.pdf)]
