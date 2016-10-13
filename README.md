@@ -16,20 +16,12 @@
 
 1. **Mike Ash**, "Concurrent memory deallocation in the Objective-C runtime" - [[blogpost](https://www.mikeash.com/pyblog/friday-qa-2015-05-29-concurrent-memory-deallocation-in-the-objective-c-runtime.html)]
 
-#### Testing
-
-1. **Koen Claessen, John Hughes "QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs"** - One of the ways to use random testing. [[article](http://www.eecs.northwestern.edu/~robby/courses/395-495-2009-fall/quick.pdf)]
-
 #### Software Design
 
 1. **Martin Fowler, "Event Sourcing"** - Alternative way to consider state in persistence store. [[article](http://martinfowler.com/eaaDev/EventSourcing.html)]
 2. **Robert Martin (Uncle Bob), "Screaming architecture"** - Thoughts about what is an architecture and it's relations to the frameworks. [[blogpost](http://blog.8thlight.com/uncle-bob/2011/09/30/Screaming-Architecture.html)]
 3. **Robert Martin (Uncle Bob), "Clean architecture"** - Thoughts about coupling and decopling in the architecture. [[blogpost](https://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)]
-
-#### Data mining
-
-1. **Xindong Wu and others, "Top 10 algorithms in data mining"** - Excelent overview of the popular data mining algorithms
-[[article](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf)]
+4. **Robert Martin (Uncle Bob), "The Dependency Inversion Principle"** - 5th SOLID principle explanation [[article](http://mil-oss.org/resources/objectmentor_design-principles-and-design-patterns.pdf)]
 
 #### Reverse-engineering/disassembling
 
