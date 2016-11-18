@@ -34,3 +34,7 @@
 #### Version control system
 
 1. **Git workflows by Atlassian.** - Description of some common flows to work with Git  [[article](https://www.atlassian.com/git/tutorials/comparing-workflows/)]
+
+#### Networks
+
+1. **IP Network Address Translator (NAT) Terminology and Considerations** - Overview of the Network Address Translation [[reference](https://tools.ietf.org/html/rfc2663)]
