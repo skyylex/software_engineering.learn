@@ -22,7 +22,7 @@
 2. **Robert Martin (Uncle Bob), "Screaming architecture"** - Thoughts about what is an architecture and it's relations to the frameworks. [[blogpost](http://blog.8thlight.com/uncle-bob/2011/09/30/Screaming-Architecture.html)]
 3. **Robert Martin (Uncle Bob), "Clean architecture"** - Thoughts about coupling and decopling in the architecture. [[blogpost](https://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)]
 4. **Robert Martin (Uncle Bob), "The Dependency Inversion Principle"** - 5th SOLID principle explanation [[article](http://mil-oss.org/resources/objectmentor_design-principles-and-design-patterns.pdf)]
-5. **Kent Beck, Ward Cunningham  "A Laboratory For Teaching Object-Oriented Thinking"** - Overview of the CRC card technique according to OOD learning and explanation [[paper](http://c2.com/doc/oopsla89/paper.html)]s
+5. **Kent Beck, Ward Cunningham  "A Laboratory For Teaching Object-Oriented Thinking"** - Overview of the CRC card technique according to OOD learning and explanation [[paper](http://c2.com/doc/oopsla89/paper.html)]
 
 #### Reverse-engineering/disassembling
 
