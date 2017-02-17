@@ -28,6 +28,10 @@
 
 1. **Joe Condon, Brian Kernighan and Ken Thompson, "Experience with the Mergenthaler Linotron 202 Phototypesetter, or, How We Spent Our Summer Vacation"** - A very interesting and funny paper about three experts trying to figure out how the proprietary typesetter works using the black box method. [[article](http://doc.cat-v.org/unix/typesetting/digital-restoration-and-typesetter-forensics/summer.reconstructed.pdf)]
 
+#### Debug
+
+1. **Michael J. Eager, "Introduction to the DWARF Debugging Format"** - well written article about DWARF debugging format and debugging in common. [[pdf](http://www.dwarfstd.org/doc/Debugging%20using%20DWARF-2012.pdf)]
+
 #### Program execution
 
 1. **Mike Ash, "Linking and Install Names"** - small blog post about linking libraries in OS X. [[blogpost](https://www.mikeash.com/pyblog/friday-qa-2009-11-06-linking-and-install-names.html)]
