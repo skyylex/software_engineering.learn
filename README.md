@@ -35,6 +35,7 @@
 #### Program execution
 
 1. **Mike Ash, "Linking and Install Names"** - small blog post about linking libraries in OS X. [[blogpost](https://www.mikeash.com/pyblog/friday-qa-2009-11-06-linking-and-install-names.html)]
+2. **Christophe de Dinechin, "C++ Exception Handling for IA-64"** - different approaches of exceptions handling based on the C++ implementation. [[article](https://www.usenix.org/legacy/events/osdi2000/wiess2000/full_papers/dinechin/dinechin_html/)]
 
 #### Version control system
 
