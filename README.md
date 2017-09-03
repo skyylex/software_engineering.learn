@@ -6,10 +6,10 @@
 1. **Rich Hickey, "Are We There Yet?"** - Critical considerations about Object-Oriented paradigm(languages) from creator of Closure language.
 [[transcription](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/AreWeThereYet.md)]
 2. **Joel Spolsky, "Things You Should Never Do, Part I"** - Thoughts about rewriting program from scratch. [[article](http://www.joelonsoftware.com/articles/fog0000000069.html)]
-3. **Alan Green, "Naming Java Classes Without a 'Manager'"** - about naming things. [[article](http://www.bright-green.com/blog/2003_02_25/naming_java_classes_without_a.html)]
+3. **Alan Green, "Naming Java Classes Without a Manager"** - about naming things. [[article](http://www.bright-green.com/blog/2003_02_25/naming_java_classes_without_a.html)]
 4. **Niklaus Wirth, "Program Development by Stepwise Refinement".** 
 [[article](http://sunnyday.mit.edu/16.355/wirth-refinement.html)]
-5. **Rob Pike, Brian W. Kernighan**, "Program design in the UNIX environment" - UNIX way to choose functionality of the tool.
+5. **Rob Pike, Brian W. Kernighan, "Program design in the UNIX environment"** - UNIX way to choose functionality of the tool.
 [[article](http://harmful.cat-v.org/cat-v/unix_prog_design.pdf)]
 
 #### Optimizations
@@ -23,6 +23,7 @@
 3. **Robert Martin (Uncle Bob), "Clean architecture"** - Thoughts about coupling and decopling in the architecture. [[blogpost](https://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)]
 4. **Robert Martin (Uncle Bob), "The Dependency Inversion Principle"** - 5th SOLID principle explanation [[article](http://mil-oss.org/resources/objectmentor_design-principles-and-design-patterns.pdf)]
 5. **Kent Beck, Ward Cunningham  "A Laboratory For Teaching Object-Oriented Thinking"** - Overview of the CRC card technique according to OOD learning and explanation [[paper](http://c2.com/doc/oopsla89/paper.html)]
+6. **G. Kiczales, J. Lamping, A. Mendhekar, C. Maeda, C. Videira Lopes, J.-M. Loingtier, J. Irwin, "Aspect-Oriented Programming"** - Design approach to control cross-cut functionality in a suitable way [[paper](http://people.csail.mit.edu/dnj/teaching/6898/papers/aop.pdf)]
 
 #### Reverse-engineering/disassembling
 
