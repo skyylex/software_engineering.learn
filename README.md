@@ -29,6 +29,10 @@
 
 1. **Joe Condon, Brian Kernighan and Ken Thompson, "Experience with the Mergenthaler Linotron 202 Phototypesetter, or, How We Spent Our Summer Vacation"** - A very interesting and funny paper about three experts trying to figure out how the proprietary typesetter works using the black box method. [[article](http://doc.cat-v.org/unix/typesetting/digital-restoration-and-typesetter-forensics/summer.reconstructed.pdf)]
 
+#### Preprocessor
+
+1. **Lars Wirzenius, "C Preprocessor Trick For Implementing Similar Data Types"** [[article](http://liw.iki.fi/liw/texts/cpp-trick.html)]
+
 #### Debug
 
 1. **Michael J. Eager, "Introduction to the DWARF Debugging Format"** - well written article about DWARF debugging format and debugging in common. [[pdf](http://www.dwarfstd.org/doc/Debugging%20using%20DWARF-2012.pdf)]
