@@ -32,6 +32,7 @@
 #### Preprocessor
 
 1. **Lars Wirzenius, "C Preprocessor Trick For Implementing Similar Data Types"** [[article](http://liw.iki.fi/liw/texts/cpp-trick.html)]
+2. **The GNU C Preprocessor**, [[article](http://tigcc.ticalc.org/doc/cpp.html)]
 
 #### Debug
 
