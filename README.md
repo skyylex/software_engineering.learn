@@ -16,6 +16,10 @@
 
 1. **Mike Ash**, "Concurrent memory deallocation in the Objective-C runtime" - [[blogpost](https://www.mikeash.com/pyblog/friday-qa-2015-05-29-concurrent-memory-deallocation-in-the-objective-c-runtime.html)]
 
+#### Code Review
+
+1. **Group of authours**, "Modern Code Review: A Case Study at Google" - [[paper](https://sback.it/publications/icse2018seip.pdf)]
+
 #### Software Design
 
 1. **Martin Fowler, "Event Sourcing"** - Alternative way to consider state in persistence store. [[article](http://martinfowler.com/eaaDev/EventSourcing.html)]
