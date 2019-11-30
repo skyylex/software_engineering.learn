@@ -12,3 +12,5 @@ Talks:
 
 Blog posts:
  - Tomas Petricek - Coeffects. The next big programming challenge
+
+"Code to the interface you wish you had, not the interface you were given."
