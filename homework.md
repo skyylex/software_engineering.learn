@@ -9,3 +9,6 @@ Talks:
 - Collin Barett
   - Functional Swift Conference 2015
   - Structure and Interpretation of Swift programs
+
+Blog posts:
+ - Tomas Petricek - Coeffects. The next big programming challenge
