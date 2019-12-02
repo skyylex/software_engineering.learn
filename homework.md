@@ -6,6 +6,10 @@ Books:
 - Dinosaur Brains: Dealing with All Those Impossible People at Work
 - Meyer, Object-Oriented Software Construction [Mey97]
 
+Topics:
+
+- OpenAPI
+
 Talks:
   
 - http://2015.funswiftconf.com/
