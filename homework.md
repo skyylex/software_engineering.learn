@@ -5,6 +5,7 @@ Books:
 - Peopleware: Productive Projects and Teams
 - Dinosaur Brains: Dealing with All Those Impossible People at Work
 - Meyer, Object-Oriented Software Construction [Mey97]
+- Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design
 
 Topics:
 
