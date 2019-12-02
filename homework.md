@@ -4,7 +4,8 @@ Books:
 - The Mythical Man-Month: Essays on Software Engineering
 - Peopleware: Productive Projects and Teams
 - Dinosaur Brains: Dealing with All Those Impossible People at Work
-- Meyer, Object-Oriented Software Construction [Mey97],
+- Meyer, Object-Oriented Software Construction [Mey97]
+
 Talks:
   
 - http://2015.funswiftconf.com/
