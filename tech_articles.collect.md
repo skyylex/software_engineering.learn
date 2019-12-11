@@ -28,6 +28,8 @@
 4. **Robert Martin (Uncle Bob), "The Dependency Inversion Principle"** - 5th SOLID principle explanation [[article](http://mil-oss.org/resources/objectmentor_design-principles-and-design-patterns.pdf)]
 5. **Kent Beck, Ward Cunningham  "A Laboratory For Teaching Object-Oriented Thinking"** - Overview of the CRC card technique according to OOD learning and explanation [[paper](http://c2.com/doc/oopsla89/paper.html)]
 6. **G. Kiczales, J. Lamping, A. Mendhekar, C. Maeda, C. Videira Lopes, J.-M. Loingtier, J. Irwin, "Aspect-Oriented Programming"** - Design approach to control cross-cut functionality in a suitable way [[paper](http://people.csail.mit.edu/dnj/teaching/6898/papers/aop.pdf)]
+7. **Jim Waldo, On System Design** - An essay with thoughts on current state of system design in the software development [[paper](https://scholar.harvard.edu/files/waldo/files/ps-2006-6.pdf)]
+
 
 #### Reverse-engineering/disassembling
 
