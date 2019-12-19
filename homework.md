@@ -6,6 +6,7 @@ Books:
 - Dinosaur Brains: Dealing with All Those Impossible People at Work
 - Meyer, Object-Oriented Software Construction [Mey97]
 - Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design
+- The Practice of Programming
 
 Topics:
 
