@@ -2,6 +2,7 @@ Books:
 
 - The pragmatic programmer **[In Progress]**
 - objc.io - App Architecture **[In Progress]**
+- The Swift Programming Language 5.1 **[In Progress]**
 - The Mythical Man-Month: Essays on Software Engineering
 - Peopleware: Productive Projects and Teams
 - Dinosaur Brains: Dealing with All Those Impossible People at Work
