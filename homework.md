@@ -7,19 +7,14 @@ Books:
 - Meyer, Object-Oriented Software Construction [Mey97]
 - Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design
 - The Practice of Programming
-
-Topics:
-
-- OpenAPI
+- Mobile security testing guide - https://github.com/OWASP/owasp-mstg
 
 Blog posts:
 
-- https://protonmail.com/blog/ios-open-source
+- --//--
 
 Talks:
-  
-- http://2015.funswiftconf.com/
-  - ~~Collin Barett - Structure and Interpretation of Swift programs~~
+- --//---
   
  Projects to analyze:
 - https://github.com/TelegramMessenger/Telegram-iOS
