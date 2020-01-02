@@ -26,3 +26,4 @@
 - https://github.com/wikimedia/wikipedia-ios
 - https://www.discoverdev.io
 - https://ranchero.com/netnewswire/
+- https://github.com/shadowsocks/ShadowsocksX-NG
