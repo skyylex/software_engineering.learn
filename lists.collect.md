@@ -25,3 +25,4 @@
 - https://github.com/videolan/vlc
 - https://github.com/wikimedia/wikipedia-ios
 - https://www.discoverdev.io
+- https://ranchero.com/netnewswire/
